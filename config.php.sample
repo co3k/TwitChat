@@ -1,0 +1,15 @@
+<?php
+
+// IRC
+define('IRC_HOST', '');
+define('IRC_PORT', 6667);
+define('IRC_CHANNEL', '');
+define('IRC_NICK', 'twit_bot');
+define('IRC_INFO', 'twitter bot');
+define('IRC_ENCODING', 'UTF-8');
+
+// Twitter
+define('CONSUMER_KEY', '');
+define('CONSUMER_SECRET', '');
+define('ACCESS_TOKEN', '');
+define('ACCESS_TOKEN_SECRET', '');
